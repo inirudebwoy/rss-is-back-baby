@@ -1,142 +1,232 @@
 {
   "sources": [
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "http://feeds.feedburner.com/zerohedge/feed",
       "articles": [
         {
-          "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
-          "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 547,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Safari 14.1 Adds Support for Flexbox Gaps"
+          "description": "Bridgewater Co-CIO: The Market Is \"Very, Very Dangerous\"\r\n\r\n            \nIn January 2020, Bridgewater's Ray Dalio warned \"cash is trash,\" suggesting investors should diversify into gold.\n\r\n\r\n\r\n\"You can't jump into cash. Cash is trash,\" says @RayDalio. \"You have to have a well-diversified portfolio, you have to be global, and you have to have balance...and you have to have a certain amount of gold in your portfolio.\" pic.twitter.com/lZqCnvsqBh\n\r\n— Squawk Box (@SquawkCNBC) January 21, 2020\n\r\n\nA year later, th…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/tHb28P5_tNs/bridgewater-co-cio-market-very-very-dangerous",
+          "publishedOn": "2021-05-03T12:40:00.000Z",
+          "wordCount": 970,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Bridgewater Co-CIO: The Market Is \"Very, Very Dangerous\""
         },
         {
-          "description": "Jim Nielsen quoting Eric Bailey:\nHe references an example on Twitter where someone noted you can use the &#60;details&#62; element to “create a native HTML accordion,” to which someone responded: “this works without Bootstrap? &#x1f92f;”\nWhat’s the problem here? From \n&#8230;\nThe post Web Languages as Compile Targets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
-          "publishedOn": "2021-04-30T18:05:37.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Web Languages as Compile Targets"
+          "description": "Soaring Lumber Prices Add Nearly $36,000 To The Price Of A New Home: NAHB\r\n\r\n            \nAuthored by Tom Ozimek via The Epoch Times,\n\r\n\r\nSkyrocketing lumber prices that have tripled over the past 12 months have driven the price of an average new single-family home to rise by $35,872, according to new analysis by the National Association of Home Builders (NAHB), with the price spike threatening to hobble the momentum of the U.S. housing market, one of the bright stars of the recovery from the pandemic reces…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/u-skCBjRHoM/soaring-lumber-prices-add-nearly-36000-price-new-home-nahb",
+          "publishedOn": "2021-05-03T12:27:19.000Z",
+          "wordCount": 789,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Soaring Lumber Prices Add Nearly $36,000 To The Price Of A New Home: NAHB"
         },
         {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
+          "description": "This Is The Strongest Earnings Season On Record... And The Market Is Hammering Both Beats And Misses\r\n\r\n            \nThree weeks ago, just before the start of Q1 earnings season we said \"Q1 Earnings Will Be Stellar, But Are Fully Priced-In\" noting that \"the past quarter is already fully priced in - and expected to be spectacular - which is why actual earnings may only disappoint.\"\n\r\n\r\nWe were right.\n\r\n\r\nAs of this weekend, 303 S&P500 companies have reported first quarter results (75% of total market cap). 6…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/i50STDDkRmY/strongest-earnings-season-record-and-market-punshing-both-beats-and-misses",
+          "publishedOn": "2021-05-03T12:10:00.000Z",
+          "wordCount": 613,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "This Is The Strongest Earnings Season On Record... And The Market Is Hammering Both Beats And Misses"
         },
         {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1909,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
+          "description": "Verizon Strikes Deal To Dump Remnants Of AOL & Yahoo To Apollo For $5 Billion\r\n\r\n            \nLast week, the first whispers emerged that Verizon was in talks with Apollo to dump its media division, which includes the remnants of Yahoo and AOL, for a pricetag of roughly $5 billion - a tiny fraction of the $300 billion combined valuation for AOL and Yahoo during their prime 20 years ago, as Bloomberg's Tara Lachapelle pointed out in a tweet.\n\r\n\r\n\r\nAOL and Yahoo were valued at more than $300 billion two decade…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/RKzuZ5CGx7U/verizon-strikes-deal-dump-remnants-aol-yahoo-apollo-5-billion",
+          "publishedOn": "2021-05-03T12:05:55.000Z",
+          "wordCount": 644,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Verizon Strikes Deal To Dump Remnants Of AOL & Yahoo To Apollo For $5 Billion"
         },
         {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1649,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
+          "description": "Futures Jump On First Day Of May In Quiet Session\r\n\r\n            \nS&P and Nasdaq futures, and European bourses were volatile but ultimately rose on Monday to kick off a new month in a quiet session which saw several major markets closed, following a week of record earnings beat which however resulted in big stock drops with investors also keeping an eye on India covid cases and economic data to gauge the pace of recovery.\n\r\n\r\nTrading was subdued with several including Japan, China and the U.K. closed for pu…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/Km4s0BJK4qE/futures-jump-first-day-may-quiet-session",
+          "publishedOn": "2021-05-03T11:57:06.000Z",
+          "wordCount": 3455,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Futures Jump On First Day Of May In Quiet Session"
         },
         {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 764,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
+          "description": "Greg Abel Will Succeed Warren Buffett As Next Berkshire Hathaway CEO\r\n\r\n            \nAn off-the-cuff comment made by Berkshire No. 2 Charlie Munger (who, at 97, is 7 years older than Buffett) during Saturday's annual meeting seized the attention of the financial press and Berkshire shareholders watching from a distance: If something were to happen to Buffett, Munger quipped, Berkshire Vice Chairman Greg Abel - who presently runs all Berkshire's non-insurance businesses - would be tapped to take over as CEO.…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/LE7CGCY77hw/greg-abel-will-succeed-warren-buffett-next-berkshire-hathaway-ceo",
+          "publishedOn": "2021-05-03T11:22:13.000Z",
+          "wordCount": 450,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Greg Abel Will Succeed Warren Buffett As Next Berkshire Hathaway CEO"
         },
         {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1012,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
+          "description": "Fidelity Halves Ant Group Valuation As Beijing's Big Tech Crackdown Continues\r\n\r\n            \nPresident Xi made clear during a speech earlier this year that he wouldn't allow rictures in China's domestic capital markets, or the pressure of international investors, to shake the CCP's drive to curb the power of China's biggest tech giants. And so it is just weeks after Beijing forced Ant Group to apply to become a bank holding company, WSJ reports that Fidelity, one of the world's largest institutional invest…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/aX2odGr8SiE/fidelity-halves-ant-group-valuation-beijings-big-tech-crackdown-continues",
+          "publishedOn": "2021-05-03T11:00:07.000Z",
+          "wordCount": 873,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Fidelity Halves Ant Group Valuation As Beijing's Big Tech Crackdown Continues"
         },
         {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1883,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
+          "description": "Fake Health Certificates Complicate The Already Messy \"Vax Pass\" Idea\r\n\r\n            \nAuthored by Mike Shedlock via MishTalk.com,\n\r\n\r\nThe proliferation of fake health certificates is exposing a logistical blind spot for the airlines. Confusion doesn't stop there.\n\r\n\r\n\n\n\n\r\n\r\nAirlines Struggle to Police Fake Certificates \n\r\n\r\nIn Europe, Fake Covid-19 Certificates Hit Airlines, Which Now Have to Police Them\n\r\n\r\n\r\nAirlines are battling a scourge of passengers traveling with falsified Covid-19 health certificate…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/PxHUpdXs7w0/fake-health-certificates-complicate-already-messy-vax-pass-idea",
+          "publishedOn": "2021-05-03T10:30:00.000Z",
+          "wordCount": 769,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Fake Health Certificates Complicate The Already Messy \"Vax Pass\" Idea"
         },
         {
-          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
-          "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1514,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Create Actions for Selected Text With the Selection API"
+          "description": "It Seems Like Every Token This Crypto Billionaire Touches Has Gone Up 1000% This Year\r\n\r\n            \nTokens associated with 29 year old crypto billionaire Sam Bankman-Fried are skyrocketing. \n\r\n\r\nSolana, abbreviated as SOL, is up about 40% over the past week, according to Bloomberg. This makes it \"the top performing large coin among those tracked by CoinMarketCap.com\". It also moves its market cap up to $11.6 billion. SOL token is used on the Solana blockchain, which is a network attempting to compete with…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/0eOt3-oAKeM/it-seems-every-token-crypto-billionaire-touches-has-gone-1000-year",
+          "publishedOn": "2021-05-03T09:45:00.000Z",
+          "wordCount": 643,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "It Seems Like Every Token This Crypto Billionaire Touches Has Gone Up 1000% This Year"
         },
         {
-          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/shared-element-transitions/",
-          "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1092,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Shared Element Transitions"
+          "description": "The Port City That Could Become Europe's First Big Hydrogen Hub\r\n\r\n            \nAuthored by Alan Mammoser via OilPrice.com,\n\r\n\r\nLook to ports for the nascent green hydrogen economy  \n\r\n\r\nHydrogen, produced without carbon emissions, will find use in many sectors of a future ‘hydrogen economy.’ Its high energy intensity can make it the basis of fuels that reduce carbon emissions in the ‘hard to abate’ transportation and industrial sectors. Its unmatched capacity to store energy long term and seasonally should…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/XIj15MMP1rA/port-city-could-become-europes-first-big-hydrogen-hub",
+          "publishedOn": "2021-05-03T09:00:00.000Z",
+          "wordCount": 1770,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "The Port City That Could Become Europe's First Big Hydrogen Hub"
         },
         {
-          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
-          "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5544,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "A Complete Guide to Custom Properties"
+          "description": "Plunge In Bankers' Business Travel Unlikely To Improve, Despite COVID Re-Opening\r\n\r\n            \nIn the aftermath of Covid-19, business travel for bankers is still expected to plunge. It's great news for banks, who will save money on travel costs, and less than stellar news for airlines, who rely on business travel for day-to-day operations. \n\r\n\r\nNordea Bank Chief Executive Officer Frank Vang-Jensen said to Bloomberg on Thursday that there \"will definitely be much less traveling,\" according to Gulf News. \n\r…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/wS1gA5ZEprY/business-travel-bankers-expected-plunge-despite-covid-re-opening",
+          "publishedOn": "2021-05-03T08:15:00.000Z",
+          "wordCount": 503,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Plunge In Bankers' Business Travel Unlikely To Improve, Despite COVID Re-Opening"
         },
         {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the First Time"
+          "description": "We Are At The Early Stage Of The Biggest Cobra Effect In The History Of Economics\r\n\r\n            \nSubmitted by Larry McDonald, author of The Bear Traps Report\n\r\n\r\n\r\n\"We believe we are at the early stage of the biggest Cobra Effect in the history of economics. As the massive monetary and massive fiscal stimuli (over $15T globally) conjoin to save the economy from a deflationary depression, instead they risk hyperinflation - overweight commodities.\"\n\r\n\r\n\r\nVaccination parties have broken out on many street cor…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/eYlOyAx_vdw/we-are-early-stage-biggest-cobra-effect-history-economics",
+          "publishedOn": "2021-05-03T07:41:00.000Z",
+          "wordCount": 859,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "We Are At The Early Stage Of The Biggest Cobra Effect In The History Of Economics"
         },
         {
-          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
-          "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 5071,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Generating (and Solving!) Sudokus in CSS"
+          "description": "European Double-Think Blames China For Endangering Peace\r\n\r\n            \nVia The Strategic Culture Foundation,\n\r\n\r\nThe European Union excelled in double-think this week when it censured China for “endangering peace” in the South China Sea while at the same time European states are sending an unprecedented number of warships to the Indo-Pacific region.\n\r\n\r\n\n\n\n\r\n\r\nGermany is soon deploying a frigate to the South China Sea for the first time since 2002.\n\r\n\r\nFrance has just returned a nuclear-powered attack sub…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/OVjFnPRSY5Y/european-double-think-blames-china-endangering-peace",
+          "publishedOn": "2021-05-03T07:30:00.000Z",
+          "wordCount": 1111,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "European Double-Think Blames China For Endangering Peace"
         },
         {
-          "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/compat2021/",
-          "publishedOn": "2021-04-23T20:55:19.000Z",
-          "wordCount": 1181,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Eliminating five top compatibility pain points on the web"
+          "description": "\"Monster-Size Lava Fountain\" Erupts In Iceland \r\n\r\n            \nAn Icelandic resident uploaded a stunning video on YouTube of a new volcanic eruption early Sunday morning. \n\r\n\r\nYouTube \"Sigfús Steindórsson\" has been following a new fissure vent that opened a couple of weeks ago and is visible from Reykjavík, the capital of Iceland. \n\r\n\r\nThe latest development from the fissure was a \"monster-size lava fountain, the biggest since the eruption started,\" said Steindórsson. They said the eruption occurred around…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/Xv2OK0CpC8Y/monster-size-lava-fountain-erupts-iceland",
+          "publishedOn": "2021-05-03T06:45:00.000Z",
+          "wordCount": 282,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "\"Monster-Size Lava Fountain\" Erupts In Iceland"
         },
         {
-          "description": "In my previous article, I discussed how I learned to create a decoupled WordPress powered Gatsby site using the Gatsby Source WPGraphQL plugin. The project was done following the ongoing developmental version of WPGraphQL and an excellent tutorial by Henrik &#8230;\nThe post Using New Gatsby Source WordPress Plugin appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-new-gatsby-source-wordpress-plugin/",
-          "publishedOn": "2021-04-23T14:03:18.000Z",
-          "wordCount": 6095,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Using New Gatsby Source WordPress Plugin"
+          "description": "Turkey: How Erdogan's Pledge For Reform Collapsed In Five Months\r\n\r\n            \nAuthored by Burak Bekdil via The Gatestone Institute,\n\r\n\r\nHis critics often joke that when President Recep Tayyip Erdoğan pledges democratic reforms, one should run away immediately. His latest charm offensive in November, aimed at repairing Turkey's badly-strained ties with the West and Western institutions, has proven that the joke still holds value.\n\r\n\r\n\r\n\"We don't see ourselves elsewhere but in Europe,\" Erdoğan said on Nove…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/MeCqgPdo2yQ/turkey-how-erdogans-pledge-reform-collapsed-five-months",
+          "publishedOn": "2021-05-03T06:00:00.000Z",
+          "wordCount": 1131,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Turkey: How Erdogan's Pledge For Reform Collapsed In Five Months"
+        },
+        {
+          "description": "The Fourth Turning: Why America's \"Crisis\" May Last Until 2030\r\n\r\n            \nAuthored by 'FreeSpeechFan' via TheDuran.com,\n\r\n\r\nIt is comforting that the Fourth turning is part of a natural cycle but also very disturbing that it is a period of crisis. As we know from previous cycles, many people suffer and die during a fourth turning.  However, I think we all know that a crisis is upon us as the corruption, collusion, scheming, propaganda, and self interest reaches its peak. \n\r\n\r\nThe worst of the baby boom…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/J8mPHR12ExI/fourth-turning-why-americas-crisis-may-last-until-2030",
+          "publishedOn": "2021-05-03T03:40:00.000Z",
+          "wordCount": 1336,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "The Fourth Turning: Why America's \"Crisis\" May Last Until 2030"
+        },
+        {
+          "description": "Something Fishy Happening In Miami As Thousands Of Koi Suddenly Die \r\n\r\n            \nSomething fishy is happening in Miami as thousands of pricy koi fish have turned up dead at several homes and a city park. It's more than fish, birds, plants, and wild raccoons are mysterious dying, according to local news WPLG Local 10. \n\r\n\r\nThe epicenter of the thousands of dead koi is happening in Coconut Grove, a shoreline neighborhood in Miami bordering Biscayne Bay. Homeowners in the community report thousands of thei…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/JfZHza-fLUU/something-fishy-happening-miami-thousands-koi-suddenly-die",
+          "publishedOn": "2021-05-03T03:15:00.000Z",
+          "wordCount": 615,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Something Fishy Happening In Miami As Thousands Of Koi Suddenly Die"
+        },
+        {
+          "description": "Biden Admin Cancels Military-Funded Border Wall Projects\r\n\r\n            \nAuthored by Jack Phillips via The Epoch Times,\n\r\n\r\nThe Department of Defense (DOD) announced it is canceling U.S.-Mexico border wall construction efforts that were paid with funds that were initially allocated for the military.\n\r\n\r\n\n\n\n\r\n\r\nWork is done on a new border wall being constructed in Jacumba, Calif., on Jan. 22, 2021. (Sandy Huffaker/Getty Images)\n\r\n\r\nFormer President Donald Trump ordered the diversion of billions of dollars i…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/K7MSZNfefcs/biden-admin-cancels-military-funded-border-wall-projects",
+          "publishedOn": "2021-05-03T02:50:00.000Z",
+          "wordCount": 554,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Biden Admin Cancels Military-Funded Border Wall Projects"
+        },
+        {
+          "description": "Ethereum Surges Above $3,000; Now Bigger Than BofA & Disney\r\n\r\n            \nIn the immortal words of Ron Burgundy, \"that escalated quickly.\"\n\r\n\r\nIn 15 calendar days, Ethereum has gone from sub-$2000 puke to being over $3000 ($3028 highs)...\n\r\n\r\n\n\n\n\r\n\r\nSource: Bloomberg\n\r\n\r\nEther has quadrupled year-to-date (dramatically outperforming bitcoin, which itself has put in a none-too-shabby double YTD)...\n\r\n\r\n\n\n\n\r\n\r\nSource: Bloomberg\n\r\n\r\nETH is now at its strongest relative to BTC since Aug 2018...\n\r\n\r\n\n\n\n\r\n\r\nSour…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/Q5PlH7Yfe6w/ethereum-surges-above-3000-now-bigger-bofa-disney",
+          "publishedOn": "2021-05-03T02:25:24.000Z",
+          "wordCount": 810,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Ethereum Surges Above $3,000; Now Bigger Than BofA & Disney"
+        },
+        {
+          "description": "FISA And The Still Too Secret Police\r\n\r\n            \nAuthored by James Bovard,\n\r\n\r\nThe FBI continues to lawlessly use counterintelligence powers against American citizens...\n\r\n\r\n\n\n\n\r\n\r\nThe Deep State Referee just admitted that the FBI continues to commit uncounted violations of the Foreign Intelligence Surveillance Act of 1978 (FISA).\n\r\n\r\nIf you sought to report a crime to the FBI, an FBI agent may have illegally surveilled your email. Even if you merely volunteered for the  FBI “Citizens Academy” program, …",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/UTksDSb9grE/fisa-and-still-too-secret-police",
+          "publishedOn": "2021-05-03T02:00:00.000Z",
+          "wordCount": 1457,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "FISA And The Still Too Secret Police"
+        },
+        {
+          "description": "\"Enough Looting My People\": Peru's Marxist Presidential Frontrunner Pledges To Seize Offshore Company Profits\r\n\r\n            \nUS corporations are facing an increasingly tough run over the next few years: on one hand all their domestic profits are about to be taxed at much higher rates thanks to Bidenomics, on the other, they are facing an increasingly hostile socialist regime internationally, that seeks to confiscate most if not all of their offshore profits.\n\r\n\r\nCase in point, Peru, whose presidential fron…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/giCrXJQ6pdE/enough-looting-my-people-perus-marxist-presidential-frontrunner-pledges-seize-offshore",
+          "publishedOn": "2021-05-03T01:35:00.000Z",
+          "wordCount": 561,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "\"Enough Looting My People\": Peru's Marxist Presidential Frontrunner Pledges To Seize Offshore Company Profits"
+        },
+        {
+          "description": "Bitcoin & A Lesson In Electricity Markets\r\n\r\n            \nAuthored by Joakim Book via The American Institute for Economic Research,\n\r\n\r\nIn their desperation to find a reason for why bitcoin is terrible-bad-destructive-awful and morally reprehensible, the crypto-obsessed authors of the Financial Times blog Alphaville – Jemima Kelly, Jamie Powell, Izabella Kaminska – are quickly running out of good choices.\n\r\n\r\n\n\n\n\r\n\r\nTheir latest one is the “environmental FUD” – a classic in our world of environmentally obse…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/f6AM24s32f8/bitcoin-lesson-electricity-markets",
+          "publishedOn": "2021-05-03T01:10:00.000Z",
+          "wordCount": 1589,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Bitcoin & A Lesson In Electricity Markets"
+        },
+        {
+          "description": "Biden Prepares For Stealth Food Stamp Increase Of Up To 20% Without Congressional Approval\r\n\r\n            \nThe Biden administration is planning to use an obscure US Department of Agriculture instrument to lay the groundwork for a long-term increase in food aid for tens of millions of Americans.\n\r\n\r\n\n\n\n\r\n\r\nThe instrument, known as the 'market basket,' is a shopping list used to determine food stamp benefits, and which can be adjusted without risking an impasse in Congress from Republican lawmakers, according…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/RUNRLifK3nk/biden-prepares-stealth-food-stamp-increase-20-without-congressional-approval",
+          "publishedOn": "2021-05-03T00:45:00.000Z",
+          "wordCount": 826,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "Biden Prepares For Stealth Food Stamp Increase Of Up To 20% Without Congressional Approval"
+        },
+        {
+          "description": "How This Inflation Plays Out Will Be Different From Anything That Has Come Before It\r\n\r\n            \nBy Eric Peters, CIO of One River Asset Management\n\r\n\r\nFor nearly a century, gold had been pegged at roughly $20.67/oz. Then in 1934, FDR banned private holdings, confiscated people’s gold, and set the value at $35/oz for use in international trade/settlement. It remained anchored at that price for decades. But fiscal pressures of the Vietnam war and Johnson’s Great Society project stressed the pegged system.…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/wzV7AJTen_c/how-inflation-plays-out-will-be-different-anything-has-come-it",
+          "publishedOn": "2021-05-03T00:20:00.000Z",
+          "wordCount": 1004,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "How This Inflation Plays Out Will Be Different From Anything That Has Come Before It"
+        },
+        {
+          "description": "1 In 5 EV Owners In California Are Switching Back To Gas Because Charging Is A \"Hassle\"\r\n\r\n            \nWhen people are inconvenienced for just the slightest bit of time, the virtue signaling flies right out the window as though it never existed. It's almost as if the \"green\" energy cult exists in a world of their own cognitive dissonance, surviving off of recruiting new entrants to their \"ideology\", rather than actually practicing its tenets. \n\r\n\r\nFor example, about 20% of all \"planet saving EV owning visi…",
+          "link": "http://feedproxy.google.com/~r/zerohedge/feed/~3/AbIMT8Vfgm0/1-5-ev-owners-california-are-switching-back-gas-because-charging-hassle",
+          "publishedOn": "2021-05-02T23:55:00.000Z",
+          "wordCount": 517,
+          "sourceHref": "http://feeds.feedburner.com/zerohedge/feed",
+          "sourceTitle": "ZeroHedge News",
+          "title": "1 In 5 EV Owners In California Are Switching Back To Gas Because Charging Is A \"Hassle\""
         }
       ]
     },
