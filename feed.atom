@@ -2,10 +2,647 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inirudebwoy.github.io/rss-is-back-baby/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T00:38:11.019Z</updated>
+    <updated>2021-05-12T00:39:51.958Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://inirudebwoy.github.io/rss-is-back-baby/index.html"/>
     <link rel="self" href="https://inirudebwoy.github.io/rss-is-back-baby/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World's Most Vaccinated Nation Sees Active COVID Cases Double In Under A Week]]></title>
+        <id>698546 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/iEy4iM8lCVY/worlds-most-vaccinated-nation-sees-active-covid-cases-double-under-week"/>
+        <updated>2021-05-12T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[World's Most Vaccinated Nation Sees Active COVID Cases Double In Under A Week
+
+            
+The situation in the Seychelles, an island nation that has suffered from a recent surge in COVID-19 cases despite boasting the world's highest vaccination rate, is going from bad to worse.
+
+
+Since we last reported on the Seychelles one week ago, the island nation has faced a fresh surge in COVID cases.
+
+
+
+
+
+
+
+The vaccine failure cannot be determined without a detailed assessment, said the WHO. The hike in cor…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is 'GosFed' Looming At The Eccles Building?]]></title>
+        <id>698452 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/ZUBKQyf8LPs/gosfed-looming-eccles-building"/>
+        <updated>2021-05-12T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Is 'GosFed' Looming At The Eccles Building?
+
+            
+Via The American Institute for Economic Research,
+
+
+Economist Judy Shelton had a crackerjack column in last week's Wall Street Journal on the lack of intellectual and policy diversity at the Federal Reserve. She points out that during the entire term of Chairman Jerome Powell and his predecessor, Janet Yellen, not a single dissenting vote was recorded among the governors. It reminds us of the central bank of the Soviet Union.
+
+
+
+
+
+
+
+Is that w…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Tiger On The Loose In Houston Area Belongs To Murder Suspect Out On Bond Since 2017]]></title>
+        <id>698567 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/AzVKiIcoiaA/wild-tiger-loose-houston-area-belongs-murder-suspect-out-bond-2017"/>
+        <updated>2021-05-11T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Wild Tiger On The Loose In Houston Area Belongs To Murder Suspect Out On Bond Since 2017
+
+            
+A tiger that was seen roaming loose in a Houston area neighborhood over the weekend has yet to be located - but its owner has been identified and arrested.
+
+
+The exotic animal reportedly belongs to a man named Victor Cuevas, who was out of jail on bond on an "unrelated murder charge", according to local ABC affiliates. "Cuevas is accused of shooting and killing a man in July 2017 and is out on a $125,0…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professor Explains Flaw In Many Models Used For COVID-19 Lockdown Policies]]></title>
+        <id>698573 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/ne63CIZlIVM/professor-explains-flaw-many-models-used-covid-19-lockdown-policies"/>
+        <updated>2021-05-11T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Explains Flaw In Many Models Used For COVID-19 Lockdown Policies
+
+            
+Authored by Andrew Chen via The Epoch Times (emphasis ours),
+
+
+Economics professor Doug Allen wanted to know why so many early models used to create COVID-19 lockdown policies turned out to be highly incorrect. What he found was that a great majority were based on false assumptions and “tended to over-estimate the benefits and under-estimate the costs.” He found it troubling that policies such as total lockdowns wer…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NRA In Peril After Judge Rejects Bankruptcy Filing]]></title>
+        <id>698634 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/J3oVA0K32c4/nra-assets-risk-after-judge-dismisses-bankruptcy-tax-relocation"/>
+        <updated>2021-05-11T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[NRA In Peril After Judge Rejects Bankruptcy Filing
+
+            
+The NRA was dealt a serious blow on Tuesday after a Texas judge tossed the gun rights organization's bid to declare bankruptcy, saying it was filed in "bad faith" in an effort to dodge litigation in New York.
+
+
+Judge Harlin Hale tossed the case after New York Attorney General Letitia James and others questioned how legitimate the January 15th bankruptcy filing was, according to a report by Law 360.
+
+
+
+#BREAKING: A judge has ruled in our…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
+        <id>6096aafe2cd0545b5e944430</id>
+        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
+        <updated>2021-05-11T22:53:43.000Z</updated>
+        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Places Where "Permanently" Higher Inflation Could Come From]]></title>
+        <id>698632 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/XnXA3MaWv8k/three-places-where-permanently-higher-inflation-could-come"/>
+        <updated>2021-05-11T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Three Places Where "Permanently" Higher Inflation Could Come From
+
+            
+Tomorrow we get a CPI number which according to consensus at least, will be historic: it will be the first 0.3% sequential increase in core (not the much higher headline) prices this century...
+
+
+
+
+
+
+
+... a talking point which will merely underscore the recent surge in inflation fears across both companies (who can pass these rising costs on to consumers)...
+
+
+
+
+
+
+
+... and consumers (who can't).
+
+
+
+
+
+
+
+Yet while ho…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Funds Descend On Puerto Rico As Biden Tax Threat Looms]]></title>
+        <id>698455 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/XDKGRxCYoww/hedge-funds-descend-puerto-rico-biden-tax-threat-looms"/>
+        <updated>2021-05-11T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Hedge Funds Descend On Puerto Rico As Biden Tax Threat Looms
+
+            
+With President Biden and the Democrats on the warpath to separate the richest Americans from their income, hedge funds managers are starting to expand into Puerto Rico - leaving open the possibility of relocating to the island to obtain huge tax breaks, according to Bloomberg. 
+
+
+
+
+
+
+
+Both ExodusPoint Capital Management and Millennium Management have opened local subsidiaries on the island, according to local records. ExodusPoi…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marked-to-Marxist: Weighting Chinese Stocks]]></title>
+        <id>698602 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/1-2b3Uev8Fw/growth-scale-suggest-china-stocks-are-hot-underbought-heres-why-not"/>
+        <updated>2021-05-11T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Marked-to-Marxist: Weighting Chinese Stocks
+
+            
+Authored by Nick Schmitz via Verdad Capital
+
+
+The three largest economies by GDP are the US, China, and Japan. These are also the largest country stock markets by aggregate market cap. By our count, US-headquartered stocks add up to $44T in equity value, Chinese (and Hong Kong) stocks add up to $17.3T, and Japanese stocks add up to $6.5T. Meanwhile, Vanguard’s Total World Stock ETF allocates 57% to US stocks, 5% to Chinese stocks, and 7% to Japan…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia, LatAm Companies Are Embracing Bitcoin, Ether To "Maintain The Purchasing Power" Of Their Assets]]></title>
+        <id>698078 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/rna_yckvgA8/asia-latam-companies-are-embracing-bitcoin-ether-maintain-purchasing-power-their-assets"/>
+        <updated>2021-05-11T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Asia, LatAm Companies Are Embracing Bitcoin, Ether To "Maintain The Purchasing Power" Of Their Assets
+
+            
+While Elon Musk (Tesla), Jack Dorsey (Square), and Michael Saylor (MicroStrategy) have made headlines with their adoptions of cryptocurrencies as part of their company's reserves, many other American companies have begun to embrace the decentralized payments system.
+
+
+
+This is The Way. pic.twitter.com/vDzHzdzqnP
+
+— Michael Saylor (@michael_saylor) May 4, 2021
+
+
+But now, with Bitcoin hov…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arizona Governor Signs Law Designating Gun Stores As Essential Firms]]></title>
+        <id>698594 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/pe8dCQHxLSY/arizona-governor-signs-law-designating-gun-stores-essential-firms"/>
+        <updated>2021-05-11T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Arizona Governor Signs Law Designating Gun Stores As Essential Firms
+
+            
+Authored by Isabel van Brugen via The Epoch Times,
+
+
+Arizona Gov. Doug Ducey (R) has signed into law legislation that designates gun stores as essential businesses allowed to remain open during an emergency—a move that will further protect gun stores, manufacturers, and trade associations from lawsuits.
+
+
+
+
+
+
+
+The new law, Senate Bill 1382, introduced by Republican Sen. Wendy Rogers, applies to any store selling guns …]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["I Hope We All Survive It" - Dave Chappelle Warns About Cancel Culture]]></title>
+        <id>698575 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/seJAD7UqkFI/i-hope-we-all-survive-it-dave-chappelle-warns-about-cancel-culture"/>
+        <updated>2021-05-11T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA["I Hope We All Survive It" - Dave Chappelle Warns About Cancel Culture 
+
+            
+The phenomenon of "cancel culture" is a toxic one metastasizing into a woke revolution war empowered by Big Tech and Big Business. Those unfamiliar with being canceled involve publicly shaming others and boycotting celebrities and companies. However, the art of canceling has progressed well beyond canceling public figures and is now used to garget average folks. The result can be devastating for ordinary people who may f…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYT Calls Out CDC Over Disingenuous COVID Guidance]]></title>
+        <id>698608 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/UNxxyWID0w0/nyt-calls-out-cdc-over-bullsit-covid-guidance"/>
+        <updated>2021-05-11T20:55:21.000Z</updated>
+        <summary type="html"><![CDATA[NYT Calls Out CDC Over Disingenuous COVID Guidance
+
+            
+With Trump out of office and Biden now taking credit for all pandemic-related progress, several new studies - some of them picked up by MSM outlets, have significantly dialed back the fear (asymptomatic spread is less common than previously thought, surfaces are actually pretty safe, etc.).
+
+
+Now, the New York Times of all outlets is calling out the Centers for Disease Control (CDC) for a bullshit claim that "less than 10 percent" of COVID…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dissenters, Unite!]]></title>
+        <id>698505 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/wY1nLobDTNY/dissenters-unite"/>
+        <updated>2021-05-11T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dissenters, Unite!
+
+            
+Authored by Joakim Book via The American Institute for Economic Research,
+
+
+Being contrarian is hard work. You need to withstand ridicule, the loss of friends, employment, and acquaintances, face the imminent possibility that most of the time you’ll be wrong, and abandon the warm fuzzy feeling of having your otherwise friendly peers confirming your bias. 
+
+
+
+
+
+
+
+Yet, authentic critics are crucially important, even if (and when) they are wrong. When at least some of u…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTI Dips After Big Surprise Build In Gasoline Inventory]]></title>
+        <id>698628 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/D6XlO-oArRs/wti-dips-after-big-surprise-build-gasoline-inventory"/>
+        <updated>2021-05-11T20:35:48.000Z</updated>
+        <summary type="html"><![CDATA[WTI Dips After Big Surprise Build In Gasoline Inventory
+
+            
+Amid all the chaos in equity markets, oil managed to bounce back to modest gains on the day with WTI as a weaker dollar offset some concerns of a growing pile up of crude in the U.S. Gulf Coast as refineries there cut runs in response to the Colonial Pipeline shutdown.
+
+
+
+Traders are expecting “a gradual resolution to the Colonial Pipeline shutdown,” according to Louise Dickson, an analyst at consultant Rystad Energy.
+
+
+“The market…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Worker Shortage In New Jersey Is Getting Ridiculous]]></title>
+        <id>698599 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/hLS1o3cytAY/worker-shortage-new-jersey-getting-ridiculous"/>
+        <updated>2021-05-11T20:19:15.000Z</updated>
+        <summary type="html"><![CDATA[The Worker Shortage In New Jersey Is Getting Ridiculous
+
+            
+New Jersey 101.5 talk show host Dennis Malloy, via NJ101.5
+
+
+You've no doubt seen help wanted signs in store windows all over New Jersey.
+
+
+At a local garden center this weekend the guy helping me find stuff and checking me out looked a little older to be doing that job, so I asked him, "are you the owner?" Yes, he is. His family started the business way back in 1952. There he was working on a Sunday because there just isn't the hel…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big-Tech Bloodbath Continues After Biggest Sell-Program In History]]></title>
+        <id>698624 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/Phnn8abyqxQ/big-tech-bloodbath-continues-after-biggest-sell-program-history"/>
+        <updated>2021-05-11T20:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Big-Tech Bloodbath Continues After Biggest Sell-Program In History
+
+            
+After yesterday's ugliness in big-tech and small-caps, many hoped for a bounce today. But the combination of ARKK gamma and CTA deleveraging meant the pain was not over and both Nasdaq and Russell 2000 plunged into the cash market open (after getting hit as the Asia open and European open)...
+
+
+
+
+
+
+
+ 
+
+But that puke into the cash open was one for the history books as NYSE companies trading on downticks exceeded those on …]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
+        <id>6093929601fc34080ef81a0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
+        <updated>2021-05-11T19:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satellite Imagery Captures Thousands Of Unfinished Ford Trucks Stashed At Kentucky Speedway]]></title>
+        <id>698587 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/VW-oq9jjSTw/satellite-imagery-captures-thousands-unfinished-ford-trucks-stashed-kentucky-speedway"/>
+        <updated>2021-05-11T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Satellite Imagery Captures Thousands Of Unfinished Ford Trucks Stashed At Kentucky Speedway
+
+            
+Satellite images obtained by The Drive paints a clear picture of the chip shortage shitshow impacting Ford Motor Company. 
+
+
+Thousands of Ford trucks with missing semiconductor chips are parked at Kentucky Speedway, a 1.5-mile tri-oval speedway in Sparta, Kentucky, which hosts NASCAR and Indy Racing events.  
+
+
+"There are thousands of trucks at the facility awaiting chips. You can see the progress…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Psychology Of QE Is Far More Important Than The Amount Of It]]></title>
+        <id>698590 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/-uEf2HFjhIA/psychology-qe-far-more-important-amount-it"/>
+        <updated>2021-05-11T19:23:27.000Z</updated>
+        <summary type="html"><![CDATA[The Psychology Of QE Is Far More Important Than The Amount Of It
+
+            
+Authored by Mike Shedlock via MishTalk.com,
+
+
+Let's discuss what QE really does vs the psychology of QE.
+
+
+
+
+
+
+
+John Hussman has an interesting take on "Quantitative Easing!" vs "Quantitative Easing" in his latest monthly missive Counting the Chickens Twice
+
+
+
+After decades of successfully navigating complete market cycles, my greatest investment mistake (particularly between 2012 and 2017) was to underestimate the ext…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Hell Breaks Loose: Hamas Fires 130 Rockets On Tel Aviv, Israel Collapses 13-Story Building In Gaza]]></title>
+        <id>698547 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/cWLH0Vs2pXI/israel-pounds-gaza-overnight-death-toll-soars-says-anti-hamas-operation-early-stages"/>
+        <updated>2021-05-11T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[All Hell Breaks Loose: Hamas Fires 130 Rockets On Tel Aviv, Israel Collapses 13-Story Building In Gaza
+
+            
+update(3:03pm): In the last hours there's been massive escalation as Hamas and Islamic Jihad has unleashed wave and wave of rockets on central Israel, and targeting Tel Aviv.
+
+
+Hamas has announced that it launched 130 rockets on Tel Aviv and central Israel through its TV channels moments ago. While it's unclear if this is exaggerated, rockets appear to be landing across Israel, many slipp…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch: Sen. Paul Shreds Fauci Over 'Gain-Of-Function' Funding]]></title>
+        <id>698614 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/ZODU3tK3qWQ/watch-sen-paul-rips-fauci-over-gain-function-funding"/>
+        <updated>2021-05-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Watch: Sen. Paul Shreds Fauci Over 'Gain-Of-Function' Funding
+
+            
+Senator Rand Paul (R-KY) went to town on Dr. Anthony Fauci Tuesday during a Tuesday hearing in front of the Health, Education, Labor and Pensions committee.
+
+
+
+
+
+
+
+Paul alleged that the National Institutes of Health (NIH) had used a middle-man to funnel money to the Wuhan Institute of Virology via EcoHealth Alliance - which worked with the lab on bat coronavirus projects.
+
+
+Paul specifically referenced so-called "gain-of-fun…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was The Worst Payroll Miss In History Inflationary?]]></title>
+        <id>698585 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/NgDP2yDH9Ag/was-worst-payroll-miss-history-inflationary"/>
+        <updated>2021-05-11T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Was The Worst Payroll Miss In History Inflationary?
+
+            
+By Jim Reid, chief credit strategist at Deutsche Bank
+
+
+Does the biggest downside miss in history for employment mean higher inflation? That’s the debate raging through markets and indeed DB research.
+
+
+I lean towards the inflation side. Remember the Chart of the Day on Thursday showing small business “jobs hard to fill” was at record levels last month - a good guide with hindsight to the payroll number issues. (as of this morning, this…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​​​​​​​"Lines Down The Street" - People Wait Five Hours To Fill Up Amid Gas Shortages]]></title>
+        <id>698520 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/3uKOp1coKfo/gas-run-has-begun-fuel-stations-run-dry-amid-hacked-pipeline"/>
+        <updated>2021-05-11T18:20:09.000Z</updated>
+        <summary type="html"><![CDATA[​​​​​​​"Lines Down The Street" - People Wait Five Hours To Fill Up Amid Gas Shortages 
+
+            
+Update (1828ET): The White House published a fact sheet on its response to the Colonial Pipeline hack: 
+
+
+
+The recent cyberattack targeting the Colonial Pipeline has triggered a comprehensive federal response focused on securing critical energy supply chains. President Biden is receiving regular briefings on the incident and has directed agencies across the Federal Government to bring their resources to…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Briefing: Dave Floyd: The Sell-Off Continues]]></title>
+        <id>698638 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/qX-LkrHvHVg/daily-briefing-dave-floyd-sell-continues"/>
+        <updated>2021-05-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Daily Briefing: Dave Floyd: The Sell-Off Continues
+
+            
+Dave Floyd, founder of Aspen Trading, joins Real Vision senior editor Ash Bennington to provide an update on the markets as U.S. equities continued their decline this morning as inflation pressure looms large on the horizon. As the U.S. 5-year breakeven inflation rates reaches a 15-year high, Floyd will be sharing his perspective on the inflation narrative that has been roiling markets this year, what currency pairs he has his eye on, and wh…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[States Urge Facebook To Abandon Plan For Children's Instagram]]></title>
+        <id>698589 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/Kte1QzG7ZgI/states-urge-facebook-abandon-plan-childrens-instagram"/>
+        <updated>2021-05-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[States Urge Facebook To Abandon Plan For Children's Instagram
+
+            
+Authored by Janita Kan via The Epoch Times,
+
+
+A bipartisan coalition of attorneys general is urging Facebook to abandon its plans to create a platform for children under the age of 13.
+
+
+
+
+
+
+
+The attorneys general sent a letter to Facebook’s CEO Mark Zuckerberg arguing that the use of social media can be detrimental to children and that the company had previously failed to protect the welfare of children on its platforms.
+
+…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Beautiful Page Transitions in Angular]]></title>
+        <id>609a73156008950828b3f2ce</id>
+        <link href="https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/"/>
+        <updated>2021-05-11T17:50:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq Soars Back To Unchanged After Biggest Sell Program In History]]></title>
+        <id>698610 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/CWiuh2exQ-M/nasdaq-soars-back-unchanged-after-biggest-sell-program-history"/>
+        <updated>2021-05-11T17:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Nasdaq Soars Back To Unchanged After Biggest Sell Program In History
+
+            
+Who could have seen that coming?
+
+
+Thanks to a few share buybacks (cough AMZN cough)...
+
+
+
+
+
+
+
+...the Nasdaq is now in the green for the day...
+
+
+
+
+
+
+
+The Nasdaq puked down below its 100DMA this morning and this rip back higher has pushed it back up to that 100DMA resistance...
+
+
+
+
+
+
+
+The rebound occurred amid a massive wave of selling peaked - New York Stock Exchange companies trading on downticks exceeded th…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Job by Building Relationships – Advice from a Senior Software Engineer]]></title>
+        <id>609552842cd0545b5e943bcd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
+        <updated>2021-05-11T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
+        <id>60856789dd38b9088c2bf4ff</id>
+        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
+        <updated>2021-05-11T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
+        <id>60977de12cd0545b5e944661</id>
+        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
+        <updated>2021-05-11T15:22:27.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
+        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
+        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
+        <updated>2021-05-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
+        <id>60998ee76008950828b3ed10</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
+        <updated>2021-05-11T12:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
+        <updated>2021-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Developer Job through Intelligent, Genuine Networking]]></title>
+        <id>605cf4879618b008528a77e2</id>
+        <link href="https://www.freecodecamp.org/news/networking-for-aspiring-developers/"/>
+        <updated>2021-05-11T01:38:36.000Z</updated>
+        <summary type="html"><![CDATA["It's not about what you know, it's about whom you know." "70-80% of jobs are found via someone's network." Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wildfires Rage In Arizona; Southwestern US Faces Megadrought]]></title>
         <id>698463 at https://www.zerohedge.com</id>
@@ -805,16 +1442,6 @@ Incoming rocket sirens have been activated in multiple areas across Israel inclu
         <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Deven Rathore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
-        <updated>2021-04-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
