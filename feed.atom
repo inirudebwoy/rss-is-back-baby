@@ -2,10 +2,911 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://inirudebwoy.github.io/rss-is-back-baby/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:50:20.540Z</updated>
+    <updated>2021-05-25T00:49:40.085Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://inirudebwoy.github.io/rss-is-back-baby/index.html"/>
     <link rel="self" href="https://inirudebwoy.github.io/rss-is-back-baby/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
+        <id>60abc6d011ffb70827ef630f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
+        <updated>2021-05-25T00:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Aims For Commercial Quantum Computer By 2029, What Would That Do To Bitcoin?]]></title>
+        <id>699923 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/wyRUB3JSAHs/google-aims-commercial-quantum-computer-2029-what-would-do-bitcoin"/>
+        <updated>2021-05-25T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Aims For Commercial Quantum Computer By 2029, What Would That Do To Bitcoin?
+
+            
+Authored by Mike Shedlock via MishTalk.com,
+
+
+Let's explore quantum computing, problems it might solve, and what it will do to current security protocols and blockchain.
+
+
+
+
+
+
+
+What is a Quantum Computer?
+
+
+The New Scientist answers the question What is a Quantum Computer?
+
+
+
+Classical computers, which include smartphones and laptops, encode information in binary “bits” that can either be 0s or 1s. In a quantum computer, the basic unit of memory is a quantum bit or qubit.
+
+
+For instance, eight bits is enough for a classical computer to represent any number between 0 and 255. But eight qubits is enough for a quantum computer to represent every number between 0 and 255 at the same…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands Of TikTokers Have "Project X" Style Party In Huntington Beach]]></title>
+        <id>699908 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/HpDfZtauRi8/thousands-tiktokers-have-project-x-style-party-huntington-beach"/>
+        <updated>2021-05-25T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Thousands Of TikTokers Have "Project X" Style Party In Huntington Beach
+
+            
+What started as a birthday party in Huntington Beach, California, quickly descended into chaos over the weekend. 
+
+
+A TikTok video promoting a birthday party went viral, and thousands of people showed up on the beach and in the streets Saturday night. Riot police were called as the unruly crowd launched fireworks and threw rocks and bottles. An emergency curfew was implemented through early Sunday with 150 arrests. 
+
+
+
+
+
+
+
+A TikTok post (now taken down) called Adrian's Kickback by user "adrian.lopez517" swelled to more than 2,500 people on Saturday night. In the days before the meetup, the post went absolutely viral, gaining more than 200 million views on the app. 
+
+
+The post read: "Date:may 22n…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Washington Reality Versus American Reality]]></title>
+        <id>699920 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/TF2vKJWnCOA/washington-reality-versus-american-reality"/>
+        <updated>2021-05-24T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Washington Reality Versus American Reality
+
+            
+Authored by Newt Gingrich, op-ed via The Epoch Times,
+
+
+Washington reality reflects the fevered conversation over lunch, cocktails, and dinner between the Washington press corps, lobbyists, and government officials.
+
+
+Washington reality reflects the narcissistic self-absorption of the Imperial Capital.
+
+
+Rep. Liz Cheney’s fate consumes days and days of gossip and speculation. Is her dismissal as House Republican Conference Chair a sign of House Republican unity or an alienating event that will weaken the GOP?
+
+
+House dictator Nancy Pelosi’s fight over wearing masks with pro-freedom Republicans is a major chapter in the evolution of Washington.
+
+
+Washington says when 35 House Republicans bolt to vote with Democrats for the…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robert Shiller: "In Real Terms, Home Prices Have Never Been So High"]]></title>
+        <id>699873 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/bxaEvqQX_fM/robert-shiller-real-terms-home-prices-have-never-been-so-high"/>
+        <updated>2021-05-24T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Robert Shiller: "In Real Terms, Home Prices Have Never Been So High" 
+
+            
+"In real terms, home prices have never been so high. My data goes back over 100 years, so this is something," Nobel prize-winning economist Robert Shiller told CNBC's "Trading Nation." 
+
+
+Shiller is the co-founder of the S&P CoreLogic Case-Shiller home price index. He is worried about a housing bubble forming where the "Wild West" mentality pushes prices higher. He also is concerned about stocks and cryptocurrencies.
+
+
+
+
+
+
+
+ "I don't think that the whole thing is explained by central bank policy. There is something about the sociology of markets that are happening," he said. 
+
+
+Shiller has noticed that housing starts drive home prices. But last week, despite a shortage of homes and buildable prope…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Fact-Checking" Takes Another Beating: Taibbi]]></title>
+        <id>699938 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/kKQ-Zl4V-LE/fact-checking-takes-another-beating-taibbi"/>
+        <updated>2021-05-24T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA["Fact-Checking" Takes Another Beating: Taibbi
+
+            
+Authored by Matt Taibbi via TK News,
+
+
+The news business just can’t stop clowning itself. The latest indignity is an international fact-checking debacle originating, of all places, at a “festival of fact-checking.”
+
+
+The soul of rectitude testifies in the Senate
+
+
+The Poynter Institute is perhaps the most respected think tank in our business, an organization seeking to “fortify journalism’s role in a free society,” among other things through its sponsorship of the fact-checking outlet PolitiFact. A few weeks back, it held a virtual convention called the “United Facts of America: A Festival of Fact-Checking.”
+
+
+The three-day event featured special guests Christiane Amanpour, Dr. Anthony Fauci, Brian Stelter, and Senator Ma…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tow "Range Anxiety" Builds For Ford's All-New F-150 Electric Truck]]></title>
+        <id>699881 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/ojmQ4WwWETA/tow-range-anxiety-builds-fords-all-new-f-150-electric-truck"/>
+        <updated>2021-05-24T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Tow "Range Anxiety" Builds For Ford's All-New F-150 Electric Truck  
+
+            
+There was a ton of hype last week when Ford Motor Company unveiled its all-electric F-150 Lightning pickup truck. As of Friday, Ford secured more than 44,000 reservations for the new truck. 
+
+
+Ford's first all-electric truck is expected to have a targeted range between 230 and 300 miles depending on the version the customer chooses. Ford said the truck could haul up to 10,000 pounds. 
+
+
+
+
+
+
+
+Auto blog Jalopnik points out that Ford failed to release data on how hauling or towing would affect range last week. 
+
+
+In an emailed response, Vice News had a similar question and asked a Ford spokeswoman. 
+
+
+Here's the response:
+
+
+
+Ford spokesperson Said Deep did not share any specifications regarding t…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support For Black Lives Matter Drops To Two Year Low]]></title>
+        <id>699917 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/2ENPC9Obl-g/support-black-lives-matter-drops-two-year-low"/>
+        <updated>2021-05-24T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Support For Black Lives Matter Drops To Two Year Low
+
+            
+Authored by Paul Joseph Watson via Summit News,
+
+
+Despite relentless positive promotion by the media and political elites, support for Black Lives Matter in America has dropped to a two year low.
+
+
+
+
+
+
+
+An essay written by academics Jennifer Chudy and Hakeem Jefferson published by the New York Times analyzes how support for BLM soared to +20% in mid-2020 but rapidly dropped to only +5% – which is where it was in mid-2019.
+
+
+The authors note that the figures serve to contradict “the idea that the country underwent a racial reckoning.”
+
+
+
+From NYT: 'Support for Black Lives Matter Surged Last Year. Did It Last?' The answer is no. 'The data...contradicts the idea that the country underwent a racial reckoning.' http…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The Fed Has Lost Control" - John Williams Warns Of Hyperinflation In 2022]]></title>
+        <id>699791 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/KdYdkDIAvrU/fed-has-lost-control-john-williams-warns-hyperinflation-2022"/>
+        <updated>2021-05-24T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA["The Fed Has Lost Control" - John Williams Warns Of Hyperinflation In 2022
+
+            
+Via Greg Hunter’s USAWatchdog.com,
+
+
+Economist John Williams, founder of ShadowStats.com, says the Federal Reserve has painted itself into such a tight corner with the economy it really has only two choices.  Williams says it comes down to “Inflation or Implosion.”
+
+
+
+
+
+
+
+What would happen to the financial system if the Fed stopped printing massive amounts of money for stimulus and debt service?  Williams explains,
+
+
+
+“You could see financial implosion by preventing liquidity being put into the system.  The system needs liquidity (freshly created dollars) to function. Without that liquidity, you would see more of an economic implosion than you have already seen.  In fact, I will contend that…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Devout Catholic' Biden Bails On Notre Dame Commencement After 1000s Sign Petition Demanding No Invite]]></title>
+        <id>699898 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/LTYb7AtUA2c/devout-catholic-biden-bails-notre-dame-commencement-after-thousands-sign-petition"/>
+        <updated>2021-05-24T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA['Devout Catholic' Biden Bails On Notre Dame Commencement After 1000s Sign Petition Demanding No Invite
+
+            
+President Biden, a self-described 'devout Catholic,' will become the first US official in two decades not to attend Notre Dame's commencement ceremony, citing a 'scheduling conflict' according to the Catholic News Agency.
+
+
+
+
+
+
+
+The news comes after 4,600 "members of the Notre Dame community" signed a petition urging college president Fr. John Jenkins not to invite Biden - the second Roman Catholic president, over his stance on abortion, according to Fox News. Of note, Biden was told in February by US Archbishop Joseph Naumann to stop calling himself a 'devout catholic' over his pro-abortion views.
+
+
+
+Biden during the week delivered a commencement address at the Coa…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lithium, Cobalt, & Rare Earths: The Post-Petroleum Resource Race]]></title>
+        <id>699897 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/wQEhoF2kOW8/lithium-cobalt-rare-earths-post-petroleum-resource-race"/>
+        <updated>2021-05-24T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Lithium, Cobalt, & Rare Earths: The Post-Petroleum Resource Race
+
+            
+Authored by Michael Klare via TomDispatch.com,
+
+
+Thanks to its very name - renewable energy - we can picture a time in the not-too-distant future when our need for non-renewable fuels like oil, natural gas, and coal will vanish. Indeed, the Biden administration has announced a breakthrough target of 2035 for fully eliminating U.S. reliance on those non-renewable fuels for the generation of electricity. That would be accomplished by “deploying carbon-pollution-free electricity-generating resources,” primarily the everlasting power of the wind and sun.
+
+
+With other nations moving in a similar direction, it’s tempting to conclude that the days when competition over finite supplies of energy was a recurring so…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
+        <id>60aaba5911ffb70827ef5ffc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
+        <updated>2021-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Mass Shootings Over Weekend As America Descends Into Chaotic Summer]]></title>
+        <id>699861 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/pLRwBr16uzI/12-mass-shootings-over-weekend-america-descends-chaotic-summer"/>
+        <updated>2021-05-24T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[12 Mass Shootings Over Weekend As America Descends Into Chaotic Summer 
+
+            
+There's a lot of noise from the Biden administration, who claim to be addressing gun violence as an epidemic, but their efforts have only been for optics, as very little action has been taken so far. This past weekend, a dozen mass shootings were recorded across the country, according to CNN. 
+
+
+Nonprofit research group Gun Violence Archive (GVA) reported that at least 12 mass shootings were observed in eight states, including Illinois, New Jersey, Ohio, Indiana, South Carolina, Virginia, Texas, and Minnesota.
+
+
+
+This is the second straight year that the month of May has had 60+ mass shootings. https://t.co/xUBTCOf9xW
+
+— Gun Violence Archive (@GunDeaths) May 24, 2021
+
+
+On Sunday afternoon, Chicag…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vox Stealth Edits March 2020 Article "Debunking" Lab Origin Of COVID]]></title>
+        <id>699916 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/yT_Wwf0ziNw/vox-stealth-edits-march-2020-article-debunking-lab-origin-covid"/>
+        <updated>2021-05-24T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Vox Stealth Edits March 2020 Article "Debunking" Lab Origin Of COVID
+
+            
+Authored by Paul Joseph Watson via Summit News,
+
+
+Left-wing website website Vox has been caught stealth editing an old article from March 2020 “debunking” the lab origin of COVID following numerous prominent officials now saying the lab origin is a distinct possibility.
+
+
+HECTOR RETAMAL via Getty Images
+
+
+Writer and investor Paul Graham documented the edits, tweeting, “Some of the stealth edits that Vox made to its article debunking “conspiracy theories” that Covid-19 originated in a lab leak between its original publication in March 2020 and now.”
+
+
+The edits include removing the words that the virus definitively did “not come from the Wuhan lab” and saying that the fact the virus emerged in the sam…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Airlines Ordered To Avoid Belarusian Airspace As Ryanair CEO Blasts "State-Sponsored Hijacking"]]></title>
+        <id>699901 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/RMNYOkf-aLE/uk-airlines-ordered-avoid-belarusian-airspace-ryanair-ceo-blasts-state-sponsored"/>
+        <updated>2021-05-24T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[UK Airlines Ordered To Avoid Belarusian Airspace As Ryanair CEO Blasts "State-Sponsored Hijacking"
+
+            
+A growing number of European carriers, including all airlines based in the United Kingdom, are now avoiding entry into Belarus' airspace following Sunday's dramatic events involving the diversion of a Ryanair flight carrying Belarusian opposition journalist Roman Pratasevich.
+
+
+The BBC is confirming that "The UK government has told airlines to avoid Belarusian airspace after a Ryanair flight was diverted to Minsk and an opposition journalist arrested." The government said this is necessary "to keep passengers safe".
+
+
+
+JUST: UK directed all its airlines to avoid #Belarus’ airspace following Protasevich kidnapping. Follows Lithuania gov, SAS, Air Baltic, Wizz Air airlines.…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
+        <id>60ac07ec11ffb70827ef66e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
+        <updated>2021-05-24T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptos Soar After Musk, Saylor Speak To Bitcoin Miners, Will Standardize Energy Reporting]]></title>
+        <id>699922 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/1BD6zgDSIE0/cryptos-soar-after-musk-saylor-speak-bitcoin-miners-will-standardize-energy-reporting"/>
+        <updated>2021-05-24T20:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Cryptos Soar After Musk, Saylor Speak To Bitcoin Miners, Will Standardize Energy Reporting
+
+            
+Behind door number 1 we have China (i.e. Skeletor), and a relentless barrage of crypto FUD meant to distract from the disastrous reception of the digital yuan in hopes that Beijing can, after almost a decade of trying, finally talk bitcoin down to zero (narrator: it can't).
+
+
+
+Chinese Senior Official: "there is no doubt that this time we have cracked down on encrypted virtual currency more severely than in September 2019, and the price of virtual currency will be hit even harder than last time" (via @Newsquawk) pic.twitter.com/jhPm1HDdck
+
+— zerohedge (@zerohedge) May 24, 2021
+
+
+Behind door number 2 we have Elon Musk who realized, with a one week late, that by sending bitcoin plun…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preference Or Prejudice? Federal Court Finds Biden Administration Is Engaged In Racial and Gender Discrimination]]></title>
+        <id>699889 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/Dy38BLSP6go/preference-or-prejudice-federal-court-finds-biden-administration-engaged-racial-and"/>
+        <updated>2021-05-24T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Preference Or Prejudice? Federal Court Finds Biden Administration Is Engaged In Racial and Gender Discrimination
+
+            
+Authored by Jonathan Turley,
+
+
+Below is my column in The Hill on the recent decision of a federal judge that the Biden Administration was engaged in racial and gender discrimination in the administration of the pandemic relief under the American Rescue Plan Act. It is a question that is now being raised in a variety of federal programs under the Biden Administration.
+
+
+
+
+
+
+
+President Biden has spoken out often, eloquently and passionately against the “ugly poison” of discrimination and racism in our government. So a ruling by a federal district court in Texas this week was particularly jarring: Judge Reed O’Connor found that the Biden administration engaged…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin, Bullion, & Big-Tech Soar As Dollar Drop Resumes]]></title>
+        <id>699913 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/fxsRLDjrqaw/bitcoin-bullion-big-tech-soar-dollar-drop-resumes"/>
+        <updated>2021-05-24T20:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Bullion, & Big-Tech Soar As Dollar Drop Resumes
+
+            
+As the inflation narrative fades amid a now-negative China credit impulse, all of the old favorite trades are back and today was the panic-buying of big-tech reignited once again. Nasdaq roared higher, Small Caps lagged along with the Dow, S&P ended up 1%..
+
+
+
+
+
+
+
+Small Caps are coiling in a tight range between 50- and 100-DMAs...
+
+
+
+
+
+
+
+And Nasdaq bounced after closing below its 100DMA, back above its 50DMA...
+
+
+
+
+
+
+
+Growth outperformed Value...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+VIX tumbled back below 19...
+
+
+
+
+
+
+
+Another short-squeeze (filled the gap from last Wednesday's tumble) provided some more ammo for the rip today...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+Cryptos all rallied hard today, surging back into the green after another illiquid bloodbath over the weekend...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+...with Bitcoin back above $38,000 after falling beloe $32k over the weekend...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+Ether outperformed dramatically, ripping back from below $2000 to over $2500...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+And gold held its gains...
+
+
+
+
+
+
+
+As the dollar reversed its gains from late Friday...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+Bonds were bid today - even as stocks rallied - with the majority of the curve down around 1-1.5bps...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+10Y Yields found support at 1.60% again...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+Real yields dipped, catching (up) gold's lead...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+Crude oil surged higher today too, with WTI back above $66...
+
+
+
+
+
+
+
+Finally, as we detailed earlier, the banks sent another, even louder message to The Fed today with a near-record RRP...
+
+
+
+
+
+
+
+Source: Bloomberg
+
+
+The message is simple "f**k off, I'm full!"
+
+
+
+
+
+      Tyler Durden
+Mon, 05/24/2021 - 16:01]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ron Paul: Fed Inflation Is Propping Up Big Government Spending]]></title>
+        <id>699875 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/9jENfbURdXg/ron-paul-fed-inflation-propping-big-government-spending"/>
+        <updated>2021-05-24T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Ron Paul: Fed Inflation Is Propping Up Big Government Spending
+
+            
+Via SchiffGold.com,
+
+
+Inflation came in hot in April. Initially gold sold off on the news. But over the following week, there appears to have been something of a pivot in the market. Gold and the dollar both started behaving as one would expect in an inflationary environment. Peter Schiff said it looks like investors are starting to worry the Fed won’t fight inflation after all.
+
+
+
+
+
+
+
+The markets have been by and large operating on the assumption that the Fed would stick to its playbook and tighten monetary policy to deal with increasing consumer prices. But Peter has been saying there is no way the Fed could fight inflation if it wants to. Inflation is propping up the economy. If the Fed raised rates and…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden Spox Deflects Over Wuhan Bombshells During Tense Exchange]]></title>
+        <id>699909 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/a0aWKHmnw1c/biden-spox-deflects-over-wuhan-bombshells-during-tense-exchange"/>
+        <updated>2021-05-24T19:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Biden Spox Deflects Over Wuhan Bombshells During Tense Exchange
+
+            
+The White House on Monday deflected after Fox News' Peter Doocy put spox Jen Psaki on the spot following a Wall Street Journal report that three workers at the Wuhan Institute of Virology fell ill with COVID-19 symptoms in December of 2019, bolstering the lab-leak theory for the origins of the pandemic.
+
+
+
+
+
+
+
+"Why isn't President Biden pushing for more access, more information to get to the bottom of exactly what happened," asked Doocy.
+
+
+"We are," replied Psaki, adding "and we have repeatedly called for the WHO to support an expert-driven evaluation of the origins. During that first phase of the investigation there was not access to data, there was not information provided. And now we're hopeful that WH…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiking Corporate Taxes Won't Improve Economic Outcomes]]></title>
+        <id>699884 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/6FgRS7OMcL0/hiking-corporate-taxes-wont-improve-economic-outcomes"/>
+        <updated>2021-05-24T19:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Hiking Corporate Taxes Won't Improve Economic Outcomes
+
+            
+Authored by Lance Roberts via RealInvestmentAdvice.com,
+
+
+The Biden Administration is discussing hiking corporate taxes to pay for the proposed infrastructure spending package. While the goal is to ensure the “rich pay their fair share,” a look at history suggests changing tax rates will have very little impact on economic outcomes.
+
+
+Leading up to, and following, the passage of the Tax Cuts and Jobs Act (Trump Tax Cuts) I wrote a lot of analysis on:
+
+
+
+
+	
+The fallacy of tax cuts,
+
+	
+
+	
+
+	
+Why tax cuts wouldn’t change corporate behavior; and,
+
+	
+
+	
+
+	
+How tax cuts are an ineffective method of improving economic prosperity.
+
+	
+
+
+What we know now, is that our analysis was correct. As noted, corporate behavi…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York City Is Back: At Least 30 People Shot Over The Weekend]]></title>
+        <id>699865 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/JN87kVfoohw/new-york-city-back-least-30-people-shot-over-weekend"/>
+        <updated>2021-05-24T18:45:57.000Z</updated>
+        <summary type="html"><![CDATA[New York City Is Back: At Least 30 People Shot Over The Weekend
+
+            
+New York City is officially back: almost 30 people were shot in New York City this past weekend - and that number was only up until about 2PM on Sunday. 
+
+
+29 victims in total had been struck by gunfire by early evening Sunday, according to the New York Post, with one reported fatality. 
+
+
+“These kids are having running gun battles and innocents are getting shot,” one veteran NYPD officer told the Post. “Nobody is interested in hearing how many shots are fired but if people knew how many shootings occurred where there are no victims — it’s by the grace of God."
+
+
+Among those struck by gunfire over the weekend were a Manhattan federal prosecutor, Mollie Bracewell, who was dining outside in Brooklyn’s Prospect Heights, and Benjamin Bustamante, an innocent bystander walking nearby. 
+
+
+
+
+
+
+
+The weekend hadn't even ended before one officer said "there were just two more right now", referring to additional shootings late Sunday. 
+
+
+Shootings took place at Beach 30th Street and Seagirt Boulevard in Far Rockaway, Queens, among other locations throughout the city.
+
+
+Two people were shot in that area after a "gang dispute" spilled out of a nearby park, the report says. 
+
+
+And if "diversity" in your violent crimes is a major concern, as we know it probably is for Mayor De Blasio, it should be noted that in addition to the shootings, there was a fatal stabbing in Northern Brooklyn and a man who was beaten to death in the Northeast Bronx over the weekend as well.
+
+
+      Tyler Durden
+Mon, 05/24/2021 - 14:45]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflation: 1970s, 1980s, And Today]]></title>
+        <id>699807 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/GMy2p7njRCQ/inflation-1970s-1980s-and-today"/>
+        <updated>2021-05-24T18:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Inflation: 1970s, 1980s, And Today
+
+            
+Submitted by Nicholas Colas of DataTrek Research
+
+
+The inflation of the 1970s/early 1980s is a big topic just now, but a deep dive into the historical CPI data shows the world was very different then. The CPI peak in 1974 felt awful because food/clothing was 33 pct of the index and prices were up 8-12 pct. Those items are just 14 pct of CPI now. May 1980’s 13-14 pct CPI inflation was driven by high mortgage rates, no longer even used in CPI. Bottom line: look forward, not backwards, and consider energy stocks, gold, “B”, and even US stocks as inflation hedges.
+
+
+"You don’t know how to think about inflation unless you lived through the 1970s." We see that comment a lot these days and can’t help but smile. I (Nick) do vividly remember in…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["I Have Some Bitcoin": Dalio Prefers Bitcoin To Bonds, Thinks Ethereum Is More Efficient]]></title>
+        <id>699885 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/8BQFLrIrx4A/i-have-some-bitcoin-dalio-prefers-bitcoin-bonds-thinks-ethereum-more-efficient"/>
+        <updated>2021-05-24T18:11:54.000Z</updated>
+        <summary type="html"><![CDATA["I Have Some Bitcoin": Dalio Prefers Bitcoin To Bonds, Thinks Ethereum Is More Efficient
+
+            
+A question that has been nagging Wall Street's traders and millions of retail crypto enthusiasts since late 2020 was finally answered:
+
+
+
+Is this where Dalio will announce Bridgewater's bitcoin hodlings pic.twitter.com/IztnL4nPPM
+
+— zerohedge (@zerohedge) February 19, 2021
+
+
+During today's CoinDesk Consensus 2021 Conference, Ray Dalio said that not only would he rather own bitcoin than bonds - and for the world's largest risk parity hedge fund which traditionally hedges its equity exposure using a balanced 60/40 bond/stock split that's saying a lot - but putting all doubt to rest, he said that "I have some bitcoin."
+
+
+
+"I have some bitcoin"@RayDalio
+
+— Peter Johnson (@TheChicag…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed Alert: Reverse Repo Usage Nears Record As Repo Market Set To Blow]]></title>
+        <id>699904 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/OrGa1xAlqXM/fed-alert-reverse-repo-usage-nears-record-repo-market-set-blow"/>
+        <updated>2021-05-24T18:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Fed Alert: Reverse Repo Usage Nears Record As Repo Market Set To Blow
+
+            
+Ahead of today's 1:15pm overnight Reverse Repo deadline we asked if today is the day the repo market finallys crack, pushing the amount of reserves parked at the Fed to a new record above $500 billion.
+
+
+
+Are we going to hit half a T in RRP today
+
+— zerohedge (@zerohedge) May 24, 2021
+
+
+We were off, but not by too much: on Monday, the Fed revealed that the amount of overnight reserves parked at the Fed rose by another $26BN to $394.9BN (with 54 counteparties) from $369BN (52 counteparties) on Friday, which was the 5th highest in history, up a whopping $186 billion in one week and the highest non-quarter end reverse repo usage ever!
+
+
+
+
+
+
+
+Why does this matter? Three reasons, all of which we expla…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Briefing: China Is Cracking Down on More Than Just Crypto]]></title>
+        <id>699937 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/_rwUR2HAWE8/daily-briefing-china-cracking-down-more-just-crypto"/>
+        <updated>2021-05-24T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Daily Briefing: China Is Cracking Down on More Than Just Crypto
+
+            
+Real Vision managing editor Ed Harrison and editor Jack Farley break down today’s most important market-moving stories—from China’s clampdown on commodity speculation and Bitcoin mining to the supply chain bottlenecks that may at last spur durable capex investment from companies in order to meet demand. Harrison and Farley cover the day’s price action in which global equities drift higher alongside commodities such as gold and crude oil as well as the crypto volatility, which did not abate over the weekend.
+
+
+      Tyler Durden
+Mon, 05/24/2021 - 13:55]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US State Dept Issues "Do Not Travel" Advisory For Japan As Calls To Cancel Olympics Intensify]]></title>
+        <id>699882 at https://www.zerohedge.com</id>
+        <link href="http://feedproxy.google.com/~r/zerohedge/feed/~3/Y1fK9W9Tzr4/japan-launches-mass-vaccination-campaign-calls-cancel-olympics-intensify"/>
+        <updated>2021-05-24T17:45:01.000Z</updated>
+        <summary type="html"><![CDATA[US State Dept Issues "Do Not Travel" Advisory For Japan As Calls To Cancel Olympics Intensify
+
+            
+Update (1340ET): Shortly after the warnings from Masa-san and news (below) of Japan's push for a amass vaccination program, the US State Department has cranked up the pressure to '11' by issuing a Level 4 Travel Advisory for visitors to Japan.
+
+
+"Do not travel to Japan due to COVID-19."
+
+
+
+
+
+
+
+The Centers for Disease Control and Prevention (CDC) has issued a Level 4 Travel Health Notice for Japan due to COVID-19, indicating a very high level of COVID-19 in the country. There are restrictions in place affecting U.S. citizen entry into Japan. Visit the Embassy's COVID-19 page for more information on COVID-19 in Japan.
+
+
+Read the country information page.
+
+
+So the question i…]]></summary>
+        <author>
+            <name>Tyler Durden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
+        <id>60a5248c906c5207e3a7e54b</id>
+        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
+        <updated>2021-05-24T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
+        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
+        <updated>2021-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How A $1 Billion Cryptocurrency Fund Is Trading The Crash]]></title>
         <id>699812 at https://www.zerohedge.com</id>
